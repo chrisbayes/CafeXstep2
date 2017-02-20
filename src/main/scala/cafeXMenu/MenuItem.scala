@@ -16,3 +16,4 @@ class MenuItem(i: Int, n: String, t: String, f: String, p: Double) {
   val price = p
   var quantity = 0
 }
+
